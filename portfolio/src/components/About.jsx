@@ -48,18 +48,18 @@ const About = () => {
               Моя цель — чтобы ваше приложение работало стабильно и решало задачи бизнеса.
             </p>
             
-            <div className="grid grid-cols-3 gap-4 text-center">
-               <div className="p-4 bg-gray-50 rounded-lg">
-                  <span className="block text-3xl font-bold text-blue-600">4+</span>
-                  <span className="text-sm text-gray-500">Года опыта</span>
+            <div className="grid grid-cols-3 gap-2 md:gap-4 text-center">
+               <div className="p-2 md:p-4 bg-gray-50 rounded-lg flex flex-col items-center justify-center h-full">
+                  <span className="block text-2xl md:text-3xl font-bold text-blue-600">4+</span>
+                  <span className="text-xs md:text-sm text-gray-500 leading-tight">Года опыта</span>
                </div>
-               <div className="p-4 bg-gray-50 rounded-lg">
-                  <span className="block text-3xl font-bold text-blue-600">7+</span>
-                  <span className="text-sm text-gray-500">Разработано приложений с нуля</span>
+               <div className="p-2 md:p-4 bg-gray-50 rounded-lg flex flex-col items-center justify-center h-full">
+                  <span className="block text-2xl md:text-3xl font-bold text-blue-600">7+</span>
+                  <span className="text-xs md:text-sm text-gray-500 leading-tight">Разработано приложений с нуля</span>
                </div>
-               <div className="p-4 bg-gray-50 rounded-lg">
-                  <span className="block text-3xl font-bold text-blue-600">320+</span>
-                  <span className="text-sm text-gray-500">Экранов создано</span>
+               <div className="p-2 md:p-4 bg-gray-50 rounded-lg flex flex-col items-center justify-center h-full">
+                  <span className="block text-2xl md:text-3xl font-bold text-blue-600">320+</span>
+                  <span className="text-xs md:text-sm text-gray-500 leading-tight">Экранов создано</span>
                </div>
             </div>
           </motion.div>
