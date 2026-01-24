@@ -36,7 +36,7 @@ const About = () => {
             whileInView={{ opacity: 1, x: 0 }}
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
-            className="md:w-1/2"
+            className="md:w-1/2 text-center md:text-left"
           >
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Разработка мобильных приложений с фокусом на результат</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">

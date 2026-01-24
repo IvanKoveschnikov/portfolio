@@ -8,13 +8,13 @@ const projects = [
     description: 'Приложение для создания динамических QR-кодов со своим дизайном и хранением необходимой информации. Включает функционал сканирования QR-кодов.',
     technologies: ['Flutter', 'BLoC', 'Firebase'],
     images: [
-      '/project1_1.png',
-      '/project1_2.png',
-      '/project1_3.png',
-      '/project1_4.png',
-      '/project1_5.png',
-      '/project1_6.png',
-      '/project1_7.png'
+      './project1_1.png',
+      './project1_2.png',
+      './project1_3.png',
+      './project1_4.png',
+      './project1_5.png',
+      './project1_6.png',
+      './project1_7.png'
     ],
     demoLink: '#',
     codeLink: '#'
@@ -24,15 +24,15 @@ const projects = [
     description: 'Социальная сеть для голосования и принятия решений. Пользователи могут создавать опросы и голосовать в реальном времени.',
     technologies: ['Flutter', 'Firebase', 'Cloud Functions', 'Realtime'],
     images: [
-      '/project2_1.png',
-      '/project2_2.png',
-      '/project2_3.png',
-      '/project2_4.png',
-      '/project2_5.png',
-      '/project2_6.png',
-      '/project2_7.png',
-      '/project2_8.png',
-      '/project2_9.png'
+      './project2_1.png',
+      './project2_2.png',
+      './project2_3.png',
+      './project2_4.png',
+      './project2_5.png',
+      './project2_6.png',
+      './project2_7.png',
+      './project2_8.png',
+      './project2_9.png'
     ],
     demoLink: '#',
     codeLink: '#'
@@ -42,11 +42,11 @@ const projects = [
     description: 'Приложение пиццерии для заказа еды. Удобный интерфейс выбора блюд, корзина и оформление доставки.',
     technologies: ['Flutter', 'Firebase', 'Cloud Functions', 'Realtime'],
     images: [
-      '/project3_1.png',
-      '/project3_2.png',
-      '/project3_3.png',
-      '/project3_4.png',
-      '/project3_5.png'
+      './project3_1.png',
+      './project3_2.png',
+      './project3_3.png',
+      './project3_4.png',
+      './project3_5.png'
     ],
     demoLink: '#',
     codeLink: '#'

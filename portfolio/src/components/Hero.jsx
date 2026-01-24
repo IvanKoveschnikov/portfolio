@@ -44,7 +44,7 @@ const Hero = () => {
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5 }}
-            src="/hero.jpg" 
+            src="./hero.jpg" 
             alt="Иван" 
             className="w-64 h-64 md:w-96 md:h-96 rounded-full object-cover shadow-2xl border-4 border-white"
           />
