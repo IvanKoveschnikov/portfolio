@@ -60,7 +60,7 @@ const projects = [
   {
     title: 'Nutri Scan AI',
     description: 'Приложение для сканирования еды и распознавания ее с помощью ИИ и занесения в рацион питания, с разбивкой на состав: белки, жиры и углеводы.',
-    technologies: ['Flutter', 'AI', 'Firebase'],
+    technologies: ['Flutter', 'Supabase', 'AI'],
     type: 'Mobile App',
     icon: <Smartphone className="w-5 h-5 text-rose-400" />,
     images: [
