@@ -64,7 +64,7 @@ const projects = [
     type: 'Mobile App',
     icon: <Smartphone className="w-5 h-5 text-rose-400" />,
     images: [
-      './project4_1.png'
+      './project4_1.jpeg'
     ],
     demoLink: '#',
     codeLink: '#'
